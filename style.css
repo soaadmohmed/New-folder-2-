@@ -1,0 +1,24 @@
+
+form{
+    background-color: beige;
+    width: 340px;
+    height: 580px;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+input{
+    display:block;
+    width: 300px;
+    height: 30px;
+    margin: 8px;
+    border-radius: 20px;
+    outline: none;
+}
+label{
+    margin: 15px;
+    padding: 5px
+}
+::placeholder{
+    padding: 0 8px 0 8px
+}
+
